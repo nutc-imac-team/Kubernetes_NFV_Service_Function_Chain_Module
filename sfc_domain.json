@@ -1,0 +1,7 @@
+{
+  "classifier": {
+    "source":"amf-vdu1-zjfichswtp.imac.edu",
+    "destination": "hss-vdu1-ivfguprmtd.imac.edu"
+  },
+  "rsp": ["amf-vdu1-zjfichswtp.imac.edu","smf-vdu1-pxowfnvyjm.imac.edu","hss-vdu1-ivfguprmtd.imac.edu"]
+}
